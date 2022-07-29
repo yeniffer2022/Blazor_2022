@@ -61,7 +61,7 @@ namespace Blazor.Pages.MisUsuarios
                 Title = "¿Seguro que desea eliminar el usuario?",
                 Icon = SweetAlertIcon.Question,
                 ShowCancelButton = true,
-                ConfirmButtonText = "Aceptar, Eliminar",
+                ConfirmButtonText = "Aceptar",
                 CancelButtonText = "Cancelar"
             });
 

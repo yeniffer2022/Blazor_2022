@@ -9,7 +9,7 @@ namespace Modelos
 {
     public class Usuario
     {
-        [Required(ErrorMessage = "El codigo es obligatorio")]
+        [Required(ErrorMessage = "El código es obligatorio")]
         public string Codigo { get; set; }
         [Required(ErrorMessage = "El nombre es obligatorio")]
         public string Nombre { get; set; }
