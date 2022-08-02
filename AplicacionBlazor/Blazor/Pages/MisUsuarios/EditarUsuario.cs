@@ -78,8 +78,6 @@ namespace Blazor.Pages.MisUsuarios
                     await Swal.FireAsync("Error", "No se pudo eliminar el usuario", SweetAlertIcon.Error);
                 }
             }
-
-
         }
     }
 }
