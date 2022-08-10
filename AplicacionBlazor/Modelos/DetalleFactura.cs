@@ -15,7 +15,6 @@ namespace Modelos
         public decimal Precio { get; set; }
         public int Cantidad { get; set; }
         public decimal Total { get; set; }
-        
 
     }
 }
